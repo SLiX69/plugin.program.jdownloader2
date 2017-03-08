@@ -2,6 +2,10 @@
 Thumbs.db
 ehthumbs.db
 
+.idea
+*.pyo
+*.pyc
+
 # Folder config file
 Desktop.ini
 

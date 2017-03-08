@@ -1,0 +1,103 @@
+# Kodi Media Center language file
+# Addon Name: JDownloader 2
+# Addon id: plugin.program.jdownloader2
+# Addon Provider: SLiX
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Addons\n"
+"Report-Msgid-Bugs-To: alanwww1@xbmc.org\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30009"
+msgid "JD Update available"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Downloads"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Linkgrabber"
+msgstr ""
+
+msgctxt "#30012"
+msgid "State"
+msgstr ""
+
+msgctxt "#30013"
+msgid "Speed"
+msgstr ""
+
+msgctxt "#30014"
+msgid "System"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Rename package"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Move to downloads"
+msgstr ""
+
+msgctxt "#30090"
+msgid "Start"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Stop"
+msgstr ""
+
+msgctxt "#30092"
+msgid "Pause"
+msgstr ""
+
+msgctxt "#30094"
+msgid "Exit JD"
+msgstr ""
+
+msgctxt "#30095"
+msgid "Restart JD"
+msgstr ""
+
+msgctxt "#30096"
+msgid "Hibernate OS"
+msgstr ""
+
+msgctxt "#30097"
+msgid "Shutdown OS"
+msgstr ""
+
+msgctxt "#30098"
+msgid "Standby OS"
+msgstr ""
+
+#Settings
+msgctxt "#30101"
+msgid "General"
+msgstr ""
+
+msgctxt "#30110"
+msgid "My JDownloader"
+msgstr ""
+
+msgctxt "#30111"
+msgid "E-Mail"
+msgstr ""
+
+msgctxt "#30112"
+msgid "Password"
+msgstr ""
+
+#Dialogs
+msgctxt "#30201"
+msgid "Do you really want to restart and update JD?"
+msgstr ""

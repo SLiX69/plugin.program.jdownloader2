@@ -1,0 +1,13 @@
+0.0.2
+-add container
+
+0.0.1 
+-list server (multiple)
+-list downloads
+-list linkgrabber
+-list package details
+-move package to downloads
+-rename package (linkgrabber)
+-update JD (indicates available update)
+-start, pause, stop downloads
+-exit JD, OS to S3/S4/S5

@@ -1,0 +1,2 @@
+thanks to mmarquezs for creating the MyJD Python Wrapper https://github.com/mmarquezs/My.Jdownloader-API-Python-Library
+thanks to Primofenax for creating this neat jd icon http://www.deviantart.com/art/icon-Minimal-JDownloader-Icon-313625363

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.jdownloader2" name="JD2 Beta" version="0.1" provider-name="SLiX">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+		<import addon="script.module.requests" version="2.9.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<language/>
+		<summary lang="en">JD2 Beta Addon</summary>
+		<description lang="en"></description>
+		<platform>all</platform>
+		<license></license>
+		<forum></forum>
+		<source></source>
+		<email></email>
+	</extension>
+</addon>
